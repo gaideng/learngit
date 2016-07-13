@@ -1,2 +1,2 @@
 Git is a storage system.
-Git is a soft.
+Git is a distributed soft.
